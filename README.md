@@ -1,13 +1,9 @@
 <!-- Banner principal (puedes cambiar la imagen cuando quieras) -->
 <p align="center">
-  <img src="https://placehold.co/900x200?text=Tu+Banner+Aqui" alt="Banner" />
+  <img src="assets/banner.jpg" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://placehold.co/100x100?text=Foto" width="100" alt="Perfil" style="border-radius:50%;" />
-</p>
-
-<h2 align="center">NaferJ</h2>
+[//]: # (<h2 align="center">NaferJ</h2>)
 <p align="center">
   <b>Desarrollador Full Stack</b> <br>
   <span style="font-size: 1.1em;">JavaScript · PHP · SQL · React · Laravel · Node.js</span>
