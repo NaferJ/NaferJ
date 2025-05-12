@@ -6,7 +6,8 @@
 [//]: # (<h2 align="center">NaferJ</h2>)
 <p align="center">
   <b>Desarrollador Full Stack</b> <br>
-  <span style="font-size: 1.1em;">JavaScript · PHP · SQL · React · Laravel · Node.js</span>
+
+[//]: # (  <span style="font-size: 1.1em;">JavaScript · CSS · HTML5 · PHP · SQL · React · Vue · Laravel · Node.js · NPM · Apache · MariaDB · Adobe Photoshop · Adobe Premiere Pro</span>)
 </p>
 
 
