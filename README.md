@@ -37,10 +37,6 @@
 </p>
 
 <p align="center">
-  <kbd>🤝 Startup en formación (grupo de programadores)</kbd>
-</p>
-
-<p align="center">
   <kbd>🎯 Explorador de nuevas tecnologías y herramientas</kbd>
 </p>
 
