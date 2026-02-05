@@ -1,58 +1,55 @@
 <div align="center">
 
-# NaferJ
-### Full Stack Engineer
-**Specialized in high-performance e-commerce, API integrations, and CI/CD automation.**
+**Full Stack Engineer**
+*Specialized in high-performance e-commerce & CI/CD automation.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-naferj.com-000?style=flat-square&logo=react&logoColor=61DAFB)](https://www.naferj.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-naferj-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naferj)
-[![Twitter](https://img.shields.io/badge/Twitter-NaferJ1-000?style=flat-square&logo=x&logoColor=white)](https://x.com/NaferJ1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-naferj.com-000?style=flat-square&logo=react&logoColor=61DAFB)](https://www.naferj.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-naferj-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naferj) [![Twitter](https://img.shields.io/badge/Twitter-NaferJ1-000?style=flat-square&logo=x&logoColor=white)](https://x.com/NaferJ1)
 
 </div>
 
 ---
 
-### ⚡ Professional Profile
-- 🛠️ **Full Stack Core**: Expert in **PHP (CodeIgniter 7.4/8)** and **JavaScript** for unified front-to-back architectures.
-- ☁️ **Cloud & Data**: Hands-on experience managing **15+ MySQL schemas on AWS** and optimizing stored procedures.
-- 🤖 **AI-Driven Workflow**: Advanced use of **JetBrains AI, Copilot, and Perplexity** to accelerate bug resolution and code quality.
-- 📈 **Performance Focused**: Proven track record of reducing system errors by **25%** through refactoring and debugging.
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ Professional Profile</h3>
+      <ul>
+        <li><b>Full Stack Core:</b> PHP (CodeIgniter 7.4/8) & JavaScript.</li>
+        <li><b>Cloud & Data:</b> 15+ MySQL schemas optimized on AWS RDS.</li>
+        <li><b>AI Workflow:</b> Expert in JetBrains AI & Copilot integration.</li>
+        <li><b>Performance:</b> +25% stability through advanced refactoring.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🎓 Education</h3>
+      <ul>
+        <li><b>B.S. Eng:</b> Computer Systems (UTEL)</li>
+        <li><b>Languages:</b> English B1+ (Alianza)</li>
+        <li><b>Tech:</b> Software Dev (SENA)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Technical Arsenal
 
-| Category | technologies |
+| Category | Stack |
 | :--- | :--- |
-| **Languages** | PHP, JavaScript (ES6+), SQL, HTML5, CSS3 |
-| **Frameworks** | CodeIgniter, React, Laravel |
-| **Tools & Ops** | Docker, Git, GitLab CI/CD, Jira, Apache |
-| **AI Assistants** | JetBrains AI Assistant, GitHub Copilot, ChatGPT, Perplexity |
-| **Infrastructure** | MySQL 8, AWS (RDS/EC2) |
+| **Frameworks** | CodeIgniter, React, Laravel, Node.js |
+| **Data & Ops** | MySQL 8, AWS, Docker, GitLab CI/CD |
+| **AI Tools** | JetBrains AI, GitHub Copilot, Perplexity |
 
 ---
 
-### 🎓 Ongoing Education
-- 🏛️ **B.S. in Computer Systems Engineering** - UTEL University (In progress)
-- 🗣️ **English (B1+)** - Alianza Canadiense (In progress)
-- 📜 **Software Analysis & Development** - SENA Colombo Alemán
-
----
-
-### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaferJ&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaferJ&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=c9d1d9" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaferJ&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaferJ&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=c9d1d9" width="45%" />
 </div>
-
----
-
-### 📫 Reach Out
-- 🌐 **Portfolio**: [naferj.com](https://www.naferj.com)
-- 📧 **Direct Email**: [naferjml@gmail.com](mailto:naferjml@gmail.com)
-- 📍 **Location**: Barranquilla, CO • Remote Ready
 
 <div align="center">
   <br />
-  <i>"Autonomous problem solving through logic and AI augmentation."</i>
+  <a href="mailto:naferjml@gmail.com"><b>naferjml@gmail.com</b></a> • <a href="https://www.naferj.com"><b>Visit Portfolio</b></a>
+  <p><i>"Efficiency is the silent partner of quality."</i></p>
 </div>
