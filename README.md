@@ -1,56 +1,58 @@
-<!-- Banner principal (puedes cambiar la imagen cuando quieras) -->
-<p align="center">
-  <img src="assets/banner.jpg" alt="Banner" />
-</p>
+<div align="center">
 
-[//]: # (<h2 align="center">NaferJ</h2>)
-<p align="center">
-  <b>Desarrollador Full Stack</b> <br>
+# NaferJ
+### Full Stack Engineer
+**Specialized in high-performance e-commerce, API integrations, and CI/CD automation.**
 
-[//]: # (  <span style="font-size: 1.1em;">JavaScript · CSS · HTML5 · PHP · SQL · React · Vue · Laravel · Node.js · NPM · Apache · MariaDB · Adobe Photoshop · Adobe Premiere Pro</span>)
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-naferj.com-000?style=flat-square&logo=react&logoColor=61DAFB)](https://www.naferj.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naferj-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naferj)
+[![Twitter](https://img.shields.io/badge/Twitter-NaferJ1-000?style=flat-square&logo=x&logoColor=white)](https://x.com/NaferJ1)
 
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white" />
-</p>
+---
 
-<p align="center">
-  <kbd>💻 Proyectos privados para empresas</kbd> &nbsp; | &nbsp;
-  <kbd>🚀 Aprendiendo React y Laravel</kbd>
-</p>
+### ⚡ Professional Profile
+- 🛠️ **Full Stack Core**: Expert in **PHP (CodeIgniter 7.4/8)** and **JavaScript** for unified front-to-back architectures.
+- ☁️ **Cloud & Data**: Hands-on experience managing **15+ MySQL schemas on AWS** and optimizing stored procedures.
+- 🤖 **AI-Driven Workflow**: Advanced use of **JetBrains AI, Copilot, and Perplexity** to accelerate bug resolution and code quality.
+- 📈 **Performance Focused**: Proven track record of reducing system errors by **25%** through refactoring and debugging.
 
-<p align="center">
-  <kbd>🎯 Explorador de nuevas tecnologías y herramientas</kbd>
-</p>
+---
 
-<p align="center">
-  <a href="https://x.com/NaferJ1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-NaferJ1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <br>
-  <span style="font-size:0.9em;">Cuenta personal</span>
-</p>
+### 💻 Technical Arsenal
 
-<!-- Puedes agregar una breve bio aquí si lo deseas -->
-<!--
-<p align="center">
-  <i>Aquí va tu biografía...</i>
-</p>
--->
+| Category | technologies |
+| :--- | :--- |
+| **Languages** | PHP, JavaScript (ES6+), SQL, HTML5, CSS3 |
+| **Frameworks** | CodeIgniter, React, Laravel |
+| **Tools & Ops** | Docker, Git, GitLab CI/CD, Jira, Apache |
+| **AI Assistants** | JetBrains AI Assistant, GitHub Copilot, ChatGPT, Perplexity |
+| **Infrastructure** | MySQL 8, AWS (RDS/EC2) |
+
+---
+
+### 🎓 Ongoing Education
+- 🏛️ **B.S. in Computer Systems Engineering** - UTEL University (In progress)
+- 🗣️ **English (B1+)** - Alianza Canadiense (In progress)
+- 📜 **Software Analysis & Development** - SENA Colombo Alemán
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaferJ&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaferJ&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=c9d1d9" alt="Top Langs" />
+</div>
+
+---
+
+### 📫 Reach Out
+- 🌐 **Portfolio**: [naferj.com](https://www.naferj.com)
+- 📧 **Direct Email**: [naferjml@gmail.com](mailto:naferjml@gmail.com)
+- 📍 **Location**: Barranquilla, CO • Remote Ready
+
+<div align="center">
+  <br />
+  <i>"Autonomous problem solving through logic and AI augmentation."</i>
+</div>
