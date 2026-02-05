@@ -1,55 +1,54 @@
-<div align="center">
+# NaferJ
 
-**Full Stack Engineer**
-*Specialized in high-performance e-commerce & CI/CD automation.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-naferj.com-000?style=flat-square&logo=react&logoColor=61DAFB)](https://www.naferj.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-naferj-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naferj) [![Twitter](https://img.shields.io/badge/Twitter-NaferJ1-000?style=flat-square&logo=x&logoColor=white)](https://x.com/NaferJ1)
-
-</div>
+Full Stack Engineer specializing in e-commerce systems, API integrations, and database optimization. Experienced in PHP/JavaScript ecosystems with a focus on clean architecture and system reliability. Currently pursuing Systems Engineering at UTEL.
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>⚡ Professional Profile</h3>
-      <ul>
-        <li><b>Full Stack Core:</b> PHP (CodeIgniter 7.4/8) & JavaScript.</li>
-        <li><b>Cloud & Data:</b> 15+ MySQL schemas optimized on AWS RDS.</li>
-        <li><b>AI Workflow:</b> Expert in JetBrains AI & Copilot integration.</li>
-        <li><b>Performance:</b> +25% stability through advanced refactoring.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3>🎓 Education</h3>
-      <ul>
-        <li><b>B.S. Eng:</b> Computer Systems (UTEL)</li>
-        <li><b>Languages:</b> English B1+ (Alianza)</li>
-        <li><b>Tech:</b> Software Dev (SENA)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## Professional Experience
+
+**Full Stack Developer** — LM SOLUCIONES S.A.S  
+*October 2023 - October 2025*
+
+- Developed and optimized CRUD modules in CodeIgniter (PHP 7.4/8) managing 15+ MySQL 8 schemas on AWS RDS
+- Reduced system errors by 25% through strategic refactoring of stored procedures, indexes, views, and triggers
+- Managed deployments across development and production environments using GitLab CI/CD
+- Coordinated feature development through Jira workflows and merge request reviews
 
 ---
 
-### 💻 Technical Arsenal
+## Technical Stack
 
-| Category | Stack |
-| :--- | :--- |
-| **Frameworks** | CodeIgniter, React, Laravel, Node.js |
-| **Data & Ops** | MySQL 8, AWS, Docker, GitLab CI/CD |
-| **AI Tools** | JetBrains AI, GitHub Copilot, Perplexity |
+**Languages & Frameworks**  
+PHP, JavaScript, TypeScript, CodeIgniter, Laravel, React, Node.js
+
+**Data & Infrastructure**  
+MySQL 8, AWS RDS, Docker, GitLab CI/CD, Git
+
+**Development Workflow**  
+Jira, Agile methodologies, pair programming, code review processes
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaferJ&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaferJ&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=c9d1d9" width="45%" />
-</div>
+## Education
 
-<div align="center">
-  <br />
-  <a href="mailto:naferjml@gmail.com"><b>naferjml@gmail.com</b></a> • <a href="https://www.naferj.com"><b>Visit Portfolio</b></a>
-  <p><i>"Efficiency is the silent partner of quality."</i></p>
-</div>
+**Systems Engineering** — UTEL *(In progress, since Jan 2025)*
+
+**Software Analysis & Development** — SENA *(Technologist, Feb 2022 - Nov 2024)*
+
+**English Language Proficiency** — Alianza Canadiense *(B1 level, ongoing)*
+
+---
+
+## GitHub Activity
+
+![GitHub contributions snake animation](https://raw.githubusercontent.com/NaferJ/NaferJ/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub contributions snake animation](https://raw.githubusercontent.com/NaferJ/NaferJ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+## Connect
+
+**Portfolio:** [naferj.com](https://www.naferj.com)  
+**LinkedIn:** [linkedin.com/in/naferj](https://linkedin.com/in/naferj)  
+**Email:** [naferjml@gmail.com](mailto:naferjml@gmail.com)  
+**Twitter:** [@NaferJ1](https://x.com/NaferJ1)
