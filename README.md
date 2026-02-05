@@ -25,11 +25,4 @@ Full Stack Engineer specializing in e-commerce systems and database optimization
 
 ---
 
-## GitHub Activity
-
-![GitHub contributions snake animation](https://raw.githubusercontent.com/NaferJ/NaferJ/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub contributions snake animation](https://raw.githubusercontent.com/NaferJ/NaferJ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
 **Portfolio:** [naferj.com](https://www.naferj.com) • **LinkedIn:** [linkedin.com/in/naferj](https://linkedin.com/in/naferj) • **Email:** [naferjml@gmail.com](mailto:naferjml@gmail.com)
