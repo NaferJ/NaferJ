@@ -25,4 +25,4 @@ Full Stack Engineer specializing in e-commerce systems and database optimization
 
 ---
 
-**Portfolio:** [naferj.com](https://www.naferj.com) • **LinkedIn:** [linkedin.com/in/naferj](https://linkedin.com/in/naferj) • **Email:** [contacto@naferj.com](mailto:contacto@naferj.com)
+**Portfolio:** [naferj.com](https://www.naferj.com) • **LinkedIn:** [linkedin.com/in/naferj](https://linkedin.com/in/naferj) • **Email:** [dev@naferj.com](mailto:dev@naferj.com)
