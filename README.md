@@ -1,16 +1,17 @@
 # NaferJ
 
-Full Stack Engineer specializing in e-commerce systems and database optimization. Experienced with PHP/JavaScript ecosystems, focusing on clean architecture and system reliability.
+Full Stack Engineer specializing in e-commerce systems and database optimization. Currently building with Node.js, TypeScript and React, with prior PHP experience, focusing on clean architecture and system reliability.
 
 ---
 
 ## Technical Stack
 
-**Backend:** PHP (7.4/8.x), Node.js, RESTful API design  
-**Web Frameworks:** Experience with CodeIgniter and Laravel  
-**Frontend:** JavaScript, TypeScript, React  
-**Data:** MySQL 8, AWS RDS  
-**DevOps:** Docker, GitLab CI/CD, Git
+**Backend:** Node.js, TypeScript, RESTful API design  
+**Web Frameworks:** Next.js, Express (experience with CodeIgniter and Laravel)  
+**Frontend:** JavaScript, TypeScript, React, Tailwind CSS  
+**Data:** MySQL 8, AWS RDS, Redis  
+**CMS & Cloud:** Sanity, Strapi, Vercel  
+**DevOps:** Docker, GitLab CI/CD, GitHub Actions, Git
 
 ---
 
