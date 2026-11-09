@@ -6,13 +6,10 @@ Full Stack Engineer specializing in e-commerce systems and database optimization
 
 ## Technical Stack
 
-**Backend:** Node.js, TypeScript, RESTful API design  
-**Web Frameworks:** Next.js, Express (experience with CodeIgniter and Laravel)  
-**Frontend:** JavaScript, TypeScript, React, Tailwind CSS  
-**Data:** MySQL 8, AWS RDS, Redis  
-**CMS & Cloud:** Sanity, Strapi, Vercel  
-**DevOps:** Docker, GitLab CI/CD, GitHub Actions, Git  
-**Quality & Monitoring:** SonarCloud, Sentry, Scalar (API docs)
+**Backend:** Node.js, TypeScript, REST APIs, CodeIgniter  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Data & CMS:** MySQL 8, AWS RDS, Redis, Sanity, Strapi  
+**DevOps & Quality:** Docker, GitLab CI/CD, GitHub Actions, Vercel, SonarCloud, Sentry
 
 ---
 
@@ -20,37 +17,24 @@ Full Stack Engineer specializing in e-commerce systems and database optimization
 
 **Backend Engineer (Contract)** — [Poxyram Studio API](https://api.poxyram.com) *(Jun 2026 - Present)*
 
-- Designed and deployed the platform API at api.poxyram.com (Next.js on Vercel) with a custom domain, independent from the frontend
-- Documented every endpoint with Scalar so the frontend team could integrate from a single public reference
-- Built a public service status page and changelog
-- Integrated Sanity as a headless CMS so content changes don't require deploys
-- Set up repository quality controls: SonarCloud, lint, tests, Prettier, AI-assisted PR review and Sentry error tracking
-
----
+- Designed and deployed the platform API (Next.js on Vercel) with public Scalar docs, a status page and a changelog
+- Added Sanity as a headless CMS and set up SonarCloud, tests and Sentry for quality and monitoring
 
 **Co-founder & Lead Developer** — [RedLink Agency](https://www.redlinkagency.com) *(Apr 2026 - Jun 2026)*
 
-- Built the agency's full web presence as sole developer: landing page, services, talent profiles, blog and contact flow (Next.js, React, TypeScript, Tailwind CSS)
-- Integrated Sanity so the team could publish content without new deploys
-- Developed the talent system: profiles with social metrics synced via external APIs and private media kits with token-validated access
-
----
+- Built the agency's full web presence as sole developer (Next.js, React, TypeScript, Tailwind CSS, Sanity)
+- Developed talent profiles with synced social metrics and token-protected media kits
 
 **Full Stack Developer** — LM SOLUCIONES S.A.S *(Jan 2023 - Oct 2025)*
 
-- Managed 15+ MySQL 8 schemas on AWS RDS
-- Reduced system errors by 25% through database optimization
-- Developed CRUD modules in CodeIgniter (PHP 7.4/8)
-- Coordinated deployments via GitLab CI/CD and Jira workflows
+- Managed 15+ MySQL 8 schemas on AWS RDS and reduced system errors by 25% through database optimization
+- Developed CRUD modules in CodeIgniter and coordinated deployments via GitLab CI/CD and Jira
 
 ---
 
 ## Featured Project
 
-**[Luisardito Shop](https://luisardito.com)** — Rewards platform for a streamer's community
-
-- Community portal and rewards store built with TypeScript on frontend and backend, live with 555 registered users
-- Loyalty points system: viewers earn points through chat activity and gifted subs, and redeem them for products, VIP access, custom chat commands and chatbot features
+**[Luisardito Shop](https://luisardito.com)** — Rewards platform for a streamer's community, built in TypeScript, live with 555 registered users. Viewers earn loyalty points through chat activity and redeem them for products, VIP access and chatbot features.
 
 ---
 
