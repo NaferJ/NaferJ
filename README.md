@@ -15,7 +15,7 @@ Building the REST API, PostgreSQL/Prisma schema, JWT auth and developer portal f
 **Backend Engineer (Contract)** — [Poxyram Studio API](https://api.poxyram.com) *(Jun 2026 - Aug 2026, project paused by client)*
 Designed and shipped the platform API with public docs, a status page and a headless CMS.
 
-**Co-founder & Lead Developer** — [RedLink Agency]([https://api.poxyram.com](https://www.redlinkagency.com) *(Apr 2026 - Jun 2026)*
+**Co-founder & Lead Developer** — [RedLink Agency](https://www.redlinkagency.com) *(Apr 2026 - Jun 2026)*
 Built the agency's full web presence, including talent profiles and private media kits.
 
 **Web Developer** — LM SOLUCIONES S.A.S *(Apr 2024 - Oct 2025)*
