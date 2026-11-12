@@ -18,7 +18,7 @@ Designed and shipped the platform API with public docs, a status page and a head
 **Co-founder & Lead Developer** — [RedLink Agency](https://www.redlinkagency.com) *(Apr 2026 - Jun 2026)*
 Built the agency's full web presence, including talent profiles and private media kits.
 
-**Web Developer** — LM SOLUCIONES S.A.S *(Apr 2024 - Oct 2025)*
+**Web Developer** — [LM SOLUCIONES S.A.S](https://www.lmsoluciones.co) *(Apr 2024 - Oct 2025)*
 Sole in-house developer for the final six months; managed 15+ MySQL 8 schemas on AWS RDS and cut system errors by 25%.
 *Previously: Technical Support Apprentice, SENA program (Oct 2023 - Mar 2024).*
 
