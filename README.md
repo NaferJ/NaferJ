@@ -9,7 +9,7 @@ Full Stack Engineer building web platforms and APIs with Node.js, TypeScript and
 
 ## Professional Highlights
 
-**Backend Developer (work simulation)** — [EcoBite](https://ecobite-api-portal.vercel.app/) · Talently Lab *(Oct 2026 - Present)*
+**Backend Developer (work simulation)** — [EcoBite](https://ecobite-api-portal.vercel.app/) · [Talently Lab](https://talentlylab.com.ar) *(Oct 2026 - Present)*
 Building the REST API, PostgreSQL/Prisma schema, JWT auth and developer portal for a sustainable food-delivery platform.
 
 **Backend Engineer (Contract)** — [Poxyram Studio API](https://api.poxyram.com) *(Jun 2026 - Aug 2026, project paused by client)*
